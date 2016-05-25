@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349877086400",
+    "project_id": "fifth-shine-131910"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349877086400:android:d590d1ced98df1ac",
+        "android_client_info": {
+          "package_name": "com.demogooglelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349877086400-5pss96b05gmo2vqnhi78b637vbdncbpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demogooglelogin",
+            "certificate_hash": "9EF20B4846F05936EEEE95053781145E3751B229"
+          }
+        },
+        {
+          "client_id": "349877086400-r972fcc23ar924tsnhlegb8nhduchku7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXST4RUipaC1qcxGuKZ4eN4sq3IWgDIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
